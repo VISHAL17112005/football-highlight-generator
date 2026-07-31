@@ -1,0 +1,14 @@
+# Virtual Environments
+venv/
+env/
+__pycache__/
+
+# Video and Audio Files (Too large for GitHub)
+*.mp4
+*.wav
+*.avi
+*.mkv
+
+# OS generated files
+.DS_Store
+Thumbs.db
